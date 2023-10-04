@@ -37,7 +37,7 @@ const PAGES_DATA = [
 ]; // 网站分类列表，请按照API.md中'/getPages'接口中返回的data格式填写
 
 const SLOGAN = [
-  "我所热爱的事业，我将终生奋斗"
+  "热爱创造，热爱生活"
 ]; // 在Logo下方显示的标题
 
 const FOOTER_INFO = true; // 是否显示抽屉右下角的文字信息
