@@ -21,9 +21,9 @@ const PAGES_DATA = [
   {
     pageId: 1,
     sortId: 1,
-    title: "主标题",
-    subtitle: "副标题",
-    url: "http://www.your-web-page.com/",
+    title: "github",
+    subtitle: "开源项目主页",
+    url: "http://github.com/EasVNOP/",
     icon: ""
   },
   {
