@@ -24,7 +24,7 @@ const PAGES_DATA = [
     title: "github",
     subtitle: "开源项目主页",
     url: "http://github.com/EasVNOP/",
-    icon: ""
+    icon: "src/assets/noun-github-4289652.png"
   },
   {
     pageId: 2,
