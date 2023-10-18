@@ -38,6 +38,7 @@ const PAGES_DATA = [
 
 const SLOGAN = [
   "热爱创造，热爱生活"
+  "当前粉丝数:99760 LOL~
 ]; // 在Logo下方显示的标题
 
 const FOOTER_INFO = true; // 是否显示抽屉右下角的文字信息
