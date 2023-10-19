@@ -2,7 +2,7 @@ const SERVE = false; // 是否使用线上服务器
 
 const HOST = ""; // 线上服务器地址，如果不使用请留空
 
-const BLOG_NAME = "EasVNOP主页"; // 个人网站名字
+const BLOG_NAME = "Eas Techedge主页"; // 个人网站名字
 
 const BLOG_URL = "https://vnop.zeabur.app"; // 个人网站链接（请填写完整链接）
 
@@ -38,7 +38,8 @@ const PAGES_DATA = [
 
 const SLOGAN = [
   "热爱创造，热爱生活",
-  "当前粉丝数:99760 LOL~"
+  "当前粉丝数:99923 LOL~",
+  "什么，这不是区块链，这是压缩服务端?"
 ]; // 在Logo下方显示的标题
 
 const FOOTER_INFO = true; // 是否显示抽屉右下角的文字信息
